@@ -1,11 +1,11 @@
 # Experimenting with webpack executing in the jvm
 
-When I grow up, I want to be a webpack loader implemented in Clojure.
-At this time, we are just proving the jvm can run webpack in j2v8.
+When I grow up, I want to be a webpack loader implemented on the JVM.
+At this time, we are just proving the jvm can run webpack in j2v8. Even
+though there is a small Clojure bit, I'd be fine with java in case that
+helps.
 
 ## Usage
-
-Unless you are on Linux, you will have to (un)comment the appropriate entry for your os in `project.clj`.
 
 ```
 yarn install
