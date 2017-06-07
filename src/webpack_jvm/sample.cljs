@@ -1,0 +1,1 @@
+(ns webpack-jvm.sample)

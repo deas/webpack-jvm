@@ -1,5 +1,5 @@
 {
-  "name": "webpack-jvm-clj",
+  "name": "webpack-jvm",
   "version": "1.0.0",
   "description": "Experimenting with webpack on j2v8",
   "main": "index.js",
